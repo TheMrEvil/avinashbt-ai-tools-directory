@@ -66,6 +66,7 @@ Whether you’re building your own SaaS, looking for tools to integrate, or just
 | #  | Product | Description |
 |----|---------|-------------|
 |21 | [Zapier](https://zapier.com) | Automation SaaS that connects thousands of apps & triggers workflows without code. |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 |22 | [Integromat (Make)](https://make.com) | Visual automation & integration platform (SaaS) that helps build complex workflows. |
 |23 | [Mixpanel](https://mixpanel.com) | Product analytics SaaS for tracking user behaviour, cohorts, retention — great for growth teams. 12 |
 |24 | [Tailscale](https://tailscale.com) | Secure VPN / networking SaaS that simplifies connecting devices across networks. 13 |
